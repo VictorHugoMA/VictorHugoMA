@@ -28,9 +28,9 @@
  
  <div>
   <a href="https://github.com/VictorHugoMA/UFU_repositorio">
-  <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoMA&repo=UFU_repositorio&theme=dark">
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoMA&repo=UFU_repositorio&theme=dark">
   <a href="https://github.com/VictorHugoMA/TrabalhoPPI">
-  <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoMA&repo=TrabalhoPPI&theme=dark">
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoMA&repo=TrabalhoPPI&theme=dark">
    <a href="https://github.com/VictorHugoMA/Trabalho_POO1">
-  <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoMA&repo=Trabalho_POO1&theme=dark">
+  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoMA&repo=Trabalho_POO1&theme=dark">
  </div>
