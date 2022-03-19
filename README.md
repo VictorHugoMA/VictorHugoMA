@@ -23,14 +23,3 @@
    <a href = "mailto:victorhugomalves01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_v1ctor.hugo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
- 
-  ##
- 
- <div>
-  <a href="https://github.com/VictorHugoMA/UFU_repositorio">
-  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoMA&repo=UFU_repositorio&theme=dark">
-  <a href="https://github.com/VictorHugoMA/TrabalhoPPI">
-  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoMA&repo=TrabalhoPPI&theme=dark">
-   <a href="https://github.com/VictorHugoMA/Trabalho_POO1">
-  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorHugoMA&repo=Trabalho_POO1&theme=dark">
- </div>
