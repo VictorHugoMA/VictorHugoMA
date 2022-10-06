@@ -24,7 +24,7 @@
  #
 
 - 🔭 Trabalhando na área de Integração de Sistemas
-- 🎓 Atualmente no 5º Periodo de Sistemas de Informação
+- 🎓 Atualmente no 6º Periodo de Sistemas de Informação
 - 📫 Onde me encontrar:
   
  <div> 
