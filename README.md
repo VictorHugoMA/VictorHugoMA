@@ -23,7 +23,7 @@
  #
 
 - 🔭 Trabalhando na área de Integração de Sistemas
-- 🎓 Atualmente no 7º Periodo de Sistemas de Informação
+- 🎓 Formado em Sistemas de Informação
 - 📫 Onde me encontrar:
   
  <div> 
