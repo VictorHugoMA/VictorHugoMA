@@ -1,64 +1,113 @@
-### 👋 Olá, eu sou o Victor
+<h1 align="center">👋 Olá, eu sou o Victor</h1>
 
-**Desenvolvedor de Software especializado em Backend (Java, PL/SQL)**, com foco em **integrações de APIs** e **SAP BTP**.  
-Tenho experiência em **migração de ERP** e no **desenvolvimento de soluções escaláveis e eficientes** voltadas para **vendas, logística e financeiro**.  
-Entrego **APIs robustas**, **automação de processos** e **suporte técnico de alto nível**, garantindo **soluções seguras, performáticas e de qualidade**.
+<p align="center">
+  💻 Desenvolvedor Backend | Java • PL/SQL • APIs • SAP BTP  
+</p>
 
----
-
-### ⚙️ Tecnologias
-
-<div align="center">
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="center" alt="PLSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-  <img align="center" alt="SAP" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/sap-3.svg" />
-</div>
+<p align="center">
+  🚀 Focado em desenvolver <strong>soluções backend escaláveis</strong>, performáticas e orientadas a negócio
+</p>
 
 ---
 
-### 💡 O que eu faço
+## 🧠 Sobre mim
 
-- 🔧 Desenvolvimento de **rotinas e integrações backend (Java / PL/SQL)**  
-- 🌐 Criação e manutenção de **APIs RESTful** para integração entre sistemas  
-- 🧩 Implementação de soluções em **SAP BTP** e integrações com ERP corporativo  
-- ⚙️ **Automação de processos** e orquestração de fluxos de dados entre sistemas  
-- 📊 **Otimização de desempenho** e manutenção de sistemas críticos de vendas, logística e financeiro  
+Sou desenvolvedor backend com experiência em **construção de sistemas robustos**, atuando em ambientes corporativos e sistemas críticos.
+
+Meu foco é desenvolver soluções que sejam:
+
+- ⚡ Escaláveis  
+- 🔒 Seguras  
+- 🚀 Performáticas  
+
+Tenho experiência em:
+
+- 🧩 **Desenvolvimento de aplicações backend e APIs**
+- 🔗 **Integração entre sistemas e serviços**
+- ⚙️ **Automação de processos de negócio**
+- 🔄 **Migração e modernização de sistemas**
+
+Atuando principalmente nos domínios:
+
+- 🛒 Vendas  
+- 🚚 Logística  
+- 💰 Financeiro  
 
 ---
 
-### 🎯 Objetivo Profissional
+## ⚙️ Stack Tecnológica
 
-Atuar como **Desenvolvedor Backend**, contribuindo para o desenvolvimento de **soluções corporativas escaláveis e de alta performance**, com foco em **integrações, automação e performance de sistemas**.
+### 🖥️ Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" />
+</p>
+
+### 🗄️ Banco de Dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img alt="Oracle" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+</p>
+
+### ☁️ Cloud & Infraestrutura
+<p align="center">
+  <img alt="SAP" height="40" src="https://cdn.worldvectorlogo.com/logos/sap-3.svg" />
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
+</p>
+
+### 🔧 Ferramentas & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
+</p>
 
 ---
 
-### 📈 Estatísticas GitHub
+## 🔥 O que eu faço
 
-<div align="center">
+- 🔧 Desenvolvimento de **APIs RESTful escaláveis e resilientes**
+- 🧩 Construção de **serviços backend e regras de negócio**
+- ⚙️ Automação de processos e fluxos de dados
+- 🔗 Integração entre sistemas e serviços externos
+- 📊 Otimização de performance em banco de dados (Oracle / PL/SQL)
+- 🛠️ Manutenção e evolução de sistemas críticos
+
+---
+
+## 🎯 Objetivo
+
+Atuar como **Backend Developer**, contribuindo com:
+
+- Arquiteturas escaláveis  
+- Sistemas de alta performance  
+- Automação de processos  
+- Soluções que geram impacto real no negócio  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
   <a href="https://github.com/VictorHugoMA">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorHugoMA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoMA&layout=compact&langs_count=8&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorHugoMA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoMA&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorHugoMA&theme=tokyonight" />
+</p>
 
 ---
 
-### 📫 Onde me encontrar
+## 🌐 Vamos nos conectar
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/victor-hugo-martins-alves" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="mailto:victorhugomalves01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:victorhugomalves01@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.instagram.com/victor.hugo.ma/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-</div>
-
----
-
+</p>
