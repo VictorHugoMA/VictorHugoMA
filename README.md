@@ -1,37 +1,35 @@
 <h1 align="center">👋 Olá, eu sou o Victor</h1>
 
 <p align="center">
-  💻 Desenvolvedor Backend | Java • PL/SQL • APIs • SAP BTP  
-</p>
-
-<p align="center">
-  🚀 Focado em desenvolver <strong>soluções backend escaláveis</strong>, performáticas e orientadas a negócio
+  💻 Desenvolvedor Backend | Java • PL/SQL • Oracle • APIs • SAP BTP  
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 O que eu faço
 
-Sou desenvolvedor backend com experiência em **construção de sistemas robustos**, atuando em ambientes corporativos e sistemas críticos.
-
-Meu foco é desenvolver soluções que sejam:
-
-- ⚡ Escaláveis  
-- 🔒 Seguras  
-- 🚀 Performáticas  
-
-Tenho experiência em:
-
-- 🧩 **Desenvolvimento de aplicações backend e APIs**
-- 🔗 **Integração entre sistemas e serviços**
-- ⚙️ **Automação de processos de negócio**
-- 🔄 **Migração e modernização de sistemas**
+- 🔧 Desenvolvimento de **APIs RESTful escaláveis e resilientes**
+- 🧩 Construção de **serviços backend e regras de negócio**
+- ⚙️ Automação de processos e fluxos de dados
+- 🔗 Integração entre sistemas e serviços externos
+- 📊 Otimização de performance em banco de dados (Oracle / PL/SQL)
+- 🛠️ Manutenção e evolução de sistemas críticos
 
 Atuando principalmente nos domínios:
 
 - 🛒 Vendas  
 - 🚚 Logística  
 - 💰 Financeiro  
+
+
+## 🎯 Objetivo
+
+Atuar como **Backend Developer**, contribuindo com:
+
+- Arquiteturas escaláveis  
+- Sistemas de alta performance  
+- Automação de processos  
+- Soluções que geram impacto real no negócio  
 
 ---
 
@@ -58,28 +56,6 @@ Atuando principalmente nos domínios:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
 </p>
-
----
-
-## 🔥 O que eu faço
-
-- 🔧 Desenvolvimento de **APIs RESTful escaláveis e resilientes**
-- 🧩 Construção de **serviços backend e regras de negócio**
-- ⚙️ Automação de processos e fluxos de dados
-- 🔗 Integração entre sistemas e serviços externos
-- 📊 Otimização de performance em banco de dados (Oracle / PL/SQL)
-- 🛠️ Manutenção e evolução de sistemas críticos
-
----
-
-## 🎯 Objetivo
-
-Atuar como **Backend Developer**, contribuindo com:
-
-- Arquiteturas escaláveis  
-- Sistemas de alta performance  
-- Automação de processos  
-- Soluções que geram impacto real no negócio  
 
 ---
 
